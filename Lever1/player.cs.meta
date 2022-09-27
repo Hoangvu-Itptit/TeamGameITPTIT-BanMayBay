@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 229c807923113a040bd558bc29a5ce5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levercontroller: {instanceID: 0}
+  - BulletGameObject: {fileID: 1524093413424638291, guid: e7af21cac31e5064982b01d654ee0b01, type: 3}
+  - gunposition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
